@@ -1,0 +1,8 @@
+{
+    "model_max_length": 2048,
+    "pad_token": "#",
+    "bos_token": "#",
+    "eos_token": "#",
+    "unk_token": "[UNK]",
+    "tokenizer_class": "NanoLlamaTokenizer"
+  }
